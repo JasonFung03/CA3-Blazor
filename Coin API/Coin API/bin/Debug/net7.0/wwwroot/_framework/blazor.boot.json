@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Coin API",
   "resources": {
-    "hash": "sha256-9kuCsHJbPS3rKQBq9vmmHW9HlcXDDm3WPGDAdZNHkDU=",
+    "hash": "sha256-WX/ViRuUKPLqDtSDXZir525sc4kEBxAEOFw8VbuWQgs=",
     "runtime": {
       "dotnet.7.0.14.9c512wdquq.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-YcsJInaT/kw3Vrm+SESegPxvT/Lr9RE6rE/KnxWIIc0=",
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
-      "Coin API.dll": "sha256-rta28m4cOEcTN1Lhn1Yl64jO7Y4WrD3u4HfGOKCRvQ0="
+      "Coin API.dll": "sha256-5ExtbtVnTDQCWIl0yBWVDil2DfeCa5Me2otmTkppQqw="
     },
     "pdb": {
-      "Coin API.pdb": "sha256-5FIRmrcgseo9ztnOfpaTZK7/yJ+umBHJZ2FxG+Vrjk0="
+      "Coin API.pdb": "sha256-btlBWw7OOp89HITxFbacb53WexawK93LGbr7Zi+cHmQ="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
